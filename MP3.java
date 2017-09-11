@@ -1,9 +1,9 @@
 public class MP3 {
-    public static final String A = "Значение глобальной константы метода";
+    public static final String A = "Р—РЅР°С‡РµРЅРёРµ РіР»РѕР±Р°Р»СЊРЅРѕР№ РєРѕРЅСЃС‚Р°РЅС‚С‹ РјРµС‚РѕРґР°";
     public static void main(String[] args){
-        final String B = "Значение локальной константы метода";
-        final String b = "Значение локальной константы метода";
-	String c = "Значение локальной переменной метода";
+        final String B = "Р—РЅР°С‡РµРЅРёРµ Р»РѕРєР°Р»СЊРЅРѕР№ РєРѕРЅСЃС‚Р°РЅС‚С‹ РјРµС‚РѕРґР°";
+        final String b = "Р—РЅР°С‡РµРЅРёРµ Р»РѕРєР°Р»СЊРЅРѕР№ РєРѕРЅСЃС‚Р°РЅС‚С‹ РјРµС‚РѕРґР°";
+	String c = "Р—РЅР°С‡РµРЅРёРµ Р»РѕРєР°Р»СЊРЅРѕР№ РїРµСЂРµРјРµРЅРЅРѕР№ РјРµС‚РѕРґР°";
         System.out.println(A);
 	System.out.println(B);
 	System.out.println(b);
